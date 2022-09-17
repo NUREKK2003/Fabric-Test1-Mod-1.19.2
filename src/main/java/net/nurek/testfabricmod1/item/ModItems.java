@@ -14,6 +14,9 @@ public class ModItems {
     public static  final  Item AMETHYST_INGOT = registeredItem("amethyst_ingot",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
+    public static  final  Item AMETHYST_NUGGET = registeredItem("amethyst_nugget",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+
     // importuje stworzony przedmiot do plików gry
     private static Item registeredItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(TestMod.MOD_ID,name),item);
