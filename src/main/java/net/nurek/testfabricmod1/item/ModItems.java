@@ -12,10 +12,10 @@ import net.nurek.testfabricmod1.TestMod;
 public class ModItems {
     //rejestracja nowego itemu
     public static  final  Item AMETHYST_INGOT = registeredItem("amethyst_ingot",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.AMETHYST)));
 
     public static  final  Item AMETHYST_NUGGET = registeredItem("amethyst_nugget",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.AMETHYST)));
 
     // importuje stworzony przedmiot do plików gry
     private static Item registeredItem(String name, Item item){

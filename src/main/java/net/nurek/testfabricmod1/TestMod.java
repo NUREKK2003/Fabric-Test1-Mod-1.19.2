@@ -1,6 +1,7 @@
 package net.nurek.testfabricmod1;
 
 import net.fabricmc.api.ModInitializer;
+import net.nurek.testfabricmod1.block.ModBlocks;
 import net.nurek.testfabricmod1.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,5 +14,6 @@ public class TestMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

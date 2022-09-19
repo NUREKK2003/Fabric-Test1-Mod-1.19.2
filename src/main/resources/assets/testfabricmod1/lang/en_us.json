@@ -1,4 +1,10 @@
 {
   "item.testfabricmod1.amethyst_ingot": "Amethyst Ingot",
-  "item.testfabricmod1.amethyst_nugget": "Amethyst Nugget"
+  "item.testfabricmod1.amethyst_nugget": "Amethyst Nugget",
+
+  "block.testfabricmod1.toughtamethyst_block": "Tought Amethyst Block",
+
+  "itemGroup.testfabricmod1.amethyst": "Amethyst Tab"
+
+
 }
