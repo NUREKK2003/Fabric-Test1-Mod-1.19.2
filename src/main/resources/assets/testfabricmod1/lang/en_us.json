@@ -4,7 +4,15 @@
 
   "block.testfabricmod1.toughtamethyst_block": "Tought Amethyst Block",
 
-  "itemGroup.testfabricmod1.amethyst": "Amethyst Tab"
+  "itemGroup.testfabricmod1.amethyst": "Amethyst Tab",
+
+  "item.testfabricmod1.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.testfabricmod1.amethyst_axe": "Amethyst Axe",
+  "item.testfabricmod1.amethyst_sword": "Amethyst Sword",
+  "item.testfabricmod1.amethyst_hoe": "Amethyst Hoe",
+  "item.testfabricmod1.amethyst_shovel": "Amethyst Shovel"
+
+
 
 
 }

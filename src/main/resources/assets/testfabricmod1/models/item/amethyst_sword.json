@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "testfabricmod1:item/amethyst_sword"
+  }
+}
